@@ -1,3 +1,16 @@
+# Hi there, I'm Bedwey 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bedwey&color=brightgreen)
+
+## About Me
+
+I am a passionate software developer with a love for open-source technologies and collaborative projects. I enjoy working on a variety of projects, from web development to machine learning and everything in between. My goal is to continuously learn and improve my skills while contributing to the community.
+
+- 🌱 I’m currently learning: Advanced React, Kubernetes, and AI/ML algorithms
+- 👯 I’m looking to collaborate on: Open source projects, particularly those related to web development and data science
+- 💬 Ask me about: JavaScript, Python, and GitHub Actions
+- 📫 How to reach me: [Email](mailto:bedweyy@duck.com) | [LinkedIn](https://www.linkedin.com/in/bedweyy)
+- ⚡ Fun fact: I love hiking and exploring new places in my free time
 <table>
   <tr>
     <td style="width: 50%;">
