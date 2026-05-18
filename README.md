@@ -62,7 +62,7 @@
 
 ## 🚀 Key Project
 
-### [Perfect — E-Learning Platform](https://bit.ly/4ozXArk)
+### [Perfect — E-Learning Platform](https://play.google.com/store/apps/details?id=org.nourtech.perfect)
 > A full-stack mobile platform built for Egyptian secondary school students, covering all major curricula.
 
 - 📱 **20,000+** app installs across major app stores
